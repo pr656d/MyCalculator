@@ -1,5 +1,5 @@
 # My Calculator
-        This is my basic calculator using java swing for GUI and self logic.
+    This is my basic calculator using java swing for GUI and self logic.
 
 ## Learned
   - Swing GUI components
